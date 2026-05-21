@@ -37,6 +37,9 @@ Thumbs.db
 coverage/
 .nyc_output/
 
+# TypeScript build cache
+*.tsbuildinfo
+
 # Prisma
 backend/node_modules/
 
