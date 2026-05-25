@@ -1,6 +1,16 @@
 # NetPulse 🌐
 
 Plataforma corporativa full stack para monitoramento e gerenciamento de serviços de internet, desenvolvida para empresas de telecomunicações (ISPs).
+<div style="display:flex; gap:6px; justify-content:center;">
+   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Bull-FF0000?logo=nestjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="24" />
+</div>
 
 ---
 
